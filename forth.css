@@ -1,0 +1,30 @@
+.main {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 60vw;
+  height: 3vw;
+}
+.ball {
+  display: inline-block;
+  background-color: grey;
+  height: 6vw;
+  width: 6vw;
+  border-radius: 3vw;
+  margin-right: 3vw;
+}
+#timer {
+  display: inline-block;
+  background-color: black;
+  height: 6vw;
+  width: 6vw;
+  margin-left: 8vw;
+  border-radius: 3vw;
+  vertical-align: top;
+  font-size: 4vw;
+  color: red;
+  text-align: center;
+}
